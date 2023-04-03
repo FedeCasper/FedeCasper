@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-?style=social&logo=appveyor
+[![GitHub stars](https://img.shields.io/github/stars/usuario/repositorio.svg)](https://github.com/usuario/repositorio/stargazers)
