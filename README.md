@@ -5,11 +5,11 @@
 ### About Me
 ```js
 public class AboutMe extends FedericoRouyere{
-    public String[] pronouns: {'he', 'him'};
-    public String[] languages: {'spanish', 'english'};
+    public String[] pronouns = {'he', 'him'};
+    public String[] languages = {'spanish', 'english'};
     public String[] tecnologiasFrontEnd = {'javascript', 'vue.js', 'HTML', 'CSS', 'bootstrap'};
     public String[] tecnologiasBackEndEnd = {'java', 'spring', 'gradle'};
-    public String[] dataBases: {'PostgreSQL'};
+    public String[] dataBases = {'PostgreSQL'};
 
 }
 ```
