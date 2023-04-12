@@ -2,7 +2,7 @@
 
 ![OIG1-01-01](https://user-images.githubusercontent.com/101667265/231547705-409ec2b8-3833-4910-b5e2-8e84527b680c.png)
 
-```js
+```java
 const fede = {
 tecnologies: 'java',
 passions: 'photography'
