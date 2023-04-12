@@ -5,11 +5,13 @@
 ### About Me
 ```java
 public class AboutMe extends FedericoRouyere{
+
     public String[] pronouns = {'he', 'him'};
     public String[] languages = {'spanish', 'english'};
     public String[] tecnologiasFrontEnd = {'javascript', 'vue.js', 'HTML', 'CSS', 'bootstrap'};
     public String[] tecnologiasBackEndEnd = {'java', 'spring', 'gradle'};
     public String[] dataBases = {'PostgreSQL'};
+    
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCasper&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
