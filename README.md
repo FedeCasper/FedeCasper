@@ -13,7 +13,7 @@ const aboutMe = {
     frontEnd:{
       javaScript: ['vue.js'],
       css: ['bootstrap'],
-    }
+    },
     backEnd: {
       java: ['Spring'],
     } 
