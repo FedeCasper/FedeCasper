@@ -24,7 +24,7 @@ const aboutMe = {
 ```
 
 ```js
-public class aboutMe extends FedericoRouyere{
+public class AboutMe extends FedericoRouyere{
 public String pronouns;
 
 }
