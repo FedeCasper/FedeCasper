@@ -22,6 +22,13 @@ const aboutMe = {
     passions: ['technology', 'photography', 'design', 'video games', 'books', 'movies']
 }
 ```
+
+```js
+public class aboutMe extends FedericoRouyere{
+public String pronouns;
+
+}
+```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCasper&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedeCasper&show_icons=true&theme=midnight-purple )
