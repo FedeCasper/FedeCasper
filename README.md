@@ -1,6 +1,7 @@
-### Hi there 👋
+### Welcome 👋
 
-![OIG1-01-01](https://user-images.githubusercontent.com/101667265/231547705-409ec2b8-3833-4910-b5e2-8e84527b680c.png)
+![OIG1-01-01-03](https://user-images.githubusercontent.com/101667265/231555507-da036df6-861d-4bdb-bb41-2ff3cfd3cf03.png)
+
 
 ```js
 const FedericoRouyere{
