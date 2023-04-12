@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://user-images.githubusercontent.com/101667265/231545792-09ab85d3-d559-42e6-bde4-75a4ccfff095.png
+![OIG1-01](https://user-images.githubusercontent.com/101667265/231545792-09ab85d3-d559-42e6-bde4-75a4ccfff095.png)
+
 
 <!--
 **FedeCasper/FedeCasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
