@@ -9,7 +9,7 @@ const aboutMe = {
   pronouns: "he" | "him",
   languages: ['spanish', 'english'],
   code: ['java', 'javascript', 'HTML', 'CSS'],
-  technologies: 
+  technologies: {
     frontEnd: {
       javaScript: ['vue.js'],
       css: ['bootstrap']
@@ -18,6 +18,7 @@ const aboutMe = {
       java: ['Spring']
     },
     dataBases: ['PostgreSQL']
+  },
   passions: ['technology', 'photography', 'design', 'video games', 'books', 'movies']
 }
 ```
