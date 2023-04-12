@@ -7,13 +7,13 @@
 ```js
 const aboutMe = {
   pronouns: "he" | "him",
-  languages: ['spanish', 'english']
+  languages: ['spanish', 'english'],
   code: ['java', 'javascript', 'HTML', 'CSS'],
   technologies: 
     frontEnd:{
-      javaScript: ['vue.js']
+      javaScript: ['vue.js'],
       css: ['bootstrap']
-    }
+    },
     backEnd: {
       java: ['Spring']
     } 
