@@ -3,29 +3,13 @@
 ![OIG1-01-01-03-03](https://user-images.githubusercontent.com/101667265/231556134-59ebf728-9d72-4068-b61f-907458a003b0.png)
 
 ### About Me
-
-```js
-const aboutMe = {
-    pronouns: "he" | "him",
-    languages: ['spanish', 'english'],
-    code: ['java', 'javascript', 'HTML', 'CSS'],
-      technologies: {
-          frontEnd: {
-            javaScript: ['vue.js'],
-            css: ['bootstrap']
-          },
-          backEnd: {
-            java: ['Spring']
-          },
-          dataBases: ['PostgreSQL']
-      },
-    passions: ['technology', 'photography', 'design', 'video games', 'books', 'movies']
-}
-```
-
 ```js
 public class AboutMe extends FedericoRouyere{
-public String pronouns;
+    public String[] pronouns: {'he', 'him'};
+    public String[] languages: {'spanish', 'english'};
+    public String[] tecnologiasFrontEnd = {'javascript', 'vue.js', 'HTML', 'CSS', 'bootstrap'};
+    public String[] tecnologiasBackEndEnd = {'java', 'spring', 'gradle'};
+    public String[] dataBases: {'PostgreSQL'};
 
 }
 ```
