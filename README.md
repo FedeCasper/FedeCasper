@@ -4,7 +4,7 @@
 
 ### About Me
 
-```js
+```java
 class aboutMe extends FedericoRouyere{
   languages: ['spanish', 'english']
   technologies: ['java', 'spring', 'gradle', 'javascript', 'vue.js',  'HTML', 'CSS']
