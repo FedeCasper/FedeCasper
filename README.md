@@ -4,10 +4,19 @@
 
 ### About Me
 
-```java
-class aboutMe extends FedericoRouyere{
+```js
+const aboutMe = {
+  pronouns: "he" | "him",
   languages: ['spanish', 'english']
-  technologies: ['java', 'spring', 'gradle', 'javascript', 'vue.js',  'HTML', 'CSS']
+  code: ['java', 'javascript', 'HTML', 'CSS'],
+  technologies: 
+    frontEnd:{
+      javaScript: ['vue.js']
+      css: ['bootstrap']
+    }
+    backEnd: {
+      java: ['Spring']
+    } 
   passions: ['technology', 'photography', 'design', 'video games', 'books', 'movies']
 }
 ```
