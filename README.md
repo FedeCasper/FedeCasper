@@ -6,20 +6,20 @@
 
 ```js
 const aboutMe = {
-  pronouns: "he" | "him",
-  languages: ['spanish', 'english'],
-  code: ['java', 'javascript', 'HTML', 'CSS'],
-  technologies: {
-    frontEnd: {
-      javaScript: ['vue.js'],
-      css: ['bootstrap']
-    },
-    backEnd: {
-      java: ['Spring']
-    },
-    dataBases: ['PostgreSQL']
-  },
-  passions: ['technology', 'photography', 'design', 'video games', 'books', 'movies']
+    pronouns: "he" | "him",
+    languages: ['spanish', 'english'],
+    code: ['java', 'javascript', 'HTML', 'CSS'],
+      technologies: {
+          frontEnd: {
+            javaScript: ['vue.js'],
+            css: ['bootstrap']
+          },
+          backEnd: {
+            java: ['Spring']
+          },
+          dataBases: ['PostgreSQL']
+      },
+    passions: ['technology', 'photography', 'design', 'video games', 'books', 'movies']
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCasper&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
