@@ -10,7 +10,7 @@ const aboutMe = {
   languages: ['spanish', 'english'],
   code: ['java', 'javascript', 'HTML', 'CSS'],
   technologies: 
-    frontEnd:{
+    frontEnd: {
       javaScript: ['vue.js'],
       css: ['bootstrap'],
     },
