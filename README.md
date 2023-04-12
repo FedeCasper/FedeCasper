@@ -12,11 +12,12 @@ const aboutMe = {
   technologies: 
     frontEnd: {
       javaScript: ['vue.js'],
-      css: ['bootstrap'],
+      css: ['bootstrap']
     },
     backEnd: {
-      java: ['Spring'],
-    } 
+      java: ['Spring']
+    },
+    dataBases: ['PostgreSQL']
   passions: ['technology', 'photography', 'design', 'video games', 'books', 'movies']
 }
 ```
