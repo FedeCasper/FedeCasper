@@ -4,7 +4,7 @@
 
 
 ```js
-const FedericoRouyere{
+const aboutMe{
   languages: ['spanish', 'english']
   technologies: ['java', 'spring', 'gradle', 'javascript', 'vue.js',  'HTML', 'CSS']
   passions: ['technology', 'photography', 'design', 'video games', 'books', 'movies']
