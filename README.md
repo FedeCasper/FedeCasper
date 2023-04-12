@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-![OIG1-01-01-03](https://user-images.githubusercontent.com/101667265/231555507-da036df6-861d-4bdb-bb41-2ff3cfd3cf03.png)
+![OIG1-01-01-03-03](https://user-images.githubusercontent.com/101667265/231556134-59ebf728-9d72-4068-b61f-907458a003b0.png)
 
 
 ```js
