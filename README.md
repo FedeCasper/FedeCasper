@@ -13,6 +13,8 @@ const aboutMe{
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedeCasper&show_icons=true&theme=midnight-purple )
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?FedeCasper=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FedeCasper/FedeCasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
