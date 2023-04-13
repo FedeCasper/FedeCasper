@@ -1,5 +1,5 @@
 ### Welcome to my profile! 👋
-
+![OIG](https://user-images.githubusercontent.com/101667265/231871421-c43884fd-f789-4906-96dd-16e7247d50b0.gif)
 ![OIG1-01-01-03-03](https://user-images.githubusercontent.com/101667265/231556134-59ebf728-9d72-4068-b61f-907458a003b0.png)
 
 ### About Me 👻
