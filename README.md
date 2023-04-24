@@ -19,7 +19,6 @@ public class AboutMe extends FedericoRouyere{
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedeCasper&show_icons=true&theme=midnight-purple )
 
-![npm version](https://img.shields.io/npm/v/react?style=flat-square)
 <!--
 **FedeCasper/FedeCasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
