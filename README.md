@@ -15,6 +15,7 @@ public class AboutMe extends FedericoRouyere{
 ```
 ### Currently working on... 👨🏻‍💻
 I'm currently working on my "Final Fantasy API" built in java.
+If you like this idea and you are interested in helping me just let me know!!!
 
 ### Some Stats 〽
 
