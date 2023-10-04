@@ -23,7 +23,7 @@ If you like this idea and you are interested in helping me just let me know!!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedeCasper&show_icons=true&theme=midnight-purple )
 
-
+<font color="red">Este es un texto rojo.</font>
 
 <!--
 **FedeCasper/FedeCasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
