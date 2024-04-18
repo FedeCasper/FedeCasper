@@ -7,9 +7,11 @@ public class AboutMe extends FedericoRouyere{
 
     public String[] pronouns = {'he', 'him'};
     public String[] languages = {'spanish', 'english'};
-    public String[] technologiesFrontEnd = {'javascript', 'vue.js', 'react', 'HTML', 'CSS', 'bootstrap', 'tailwind'};
-    public String[] technologiesBackEndEnd = {'java', 'spring', 'gradle', 'python', 'node', 'express'};
+    public String[] technologiesFrontEnd = {'javascript', 'vue.js', 'react', react native, 'HTML', 'CSS'};
+    public String[] DeveloperTools = {'bootstrap', 'tailwind'};
+    public String[] technologiesBackEndEnd = {'java', 'spring', 'gradle', 'python', 'fastapi', 'node', 'express'};
     public String[] dataBases = {'postgreSQL', 'mySQL' 'mongoDB', 'oracle(XE)'};
+    public String[] infrastructureTools = {"docker"};
     public String[] versioning = {'git', 'github'};
     
 }
