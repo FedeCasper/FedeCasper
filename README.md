@@ -5,8 +5,6 @@
 ```java
 public class AboutMe extends FedericoRouyere{
 
-    public String[] pronouns = {'he', 'him'};
-    public String[] languages = {'spanish', 'english'};
     public String[] technologiesFrontEnd = {'javascript', 'vue.js', 'react', 'react native', 'HTML', 'CSS'};
     public String[] DeveloperTools = {'bootstrap', 'tailwind'};
     public String[] technologiesBackEndEnd = {'java', 'spring', 'gradle', 'python', 'fastapi', 'node', 'express'};
