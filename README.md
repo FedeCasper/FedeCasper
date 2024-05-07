@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 ![ghost](https://user-images.githubusercontent.com/101667265/231874276-2217b0e9-c0d6-494d-8bb1-9327b3527667.gif)
 
-### About Me 👻
+### Technologies I've worked with ⚙
 ```java
 public class AboutMe extends FedericoRouyere{
 
